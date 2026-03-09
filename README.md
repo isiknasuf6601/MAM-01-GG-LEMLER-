@@ -1,2 +1,1 @@
-# MAM-01-GG-LEMLER-
-MAMİ01 GG İŞLEMLERİ 
+content://com.mi.android.globalFileexplorer.myprovider/external_files/gg%20i%C5%9Flemleri%20son.html
